@@ -1,11 +1,11 @@
-# 📝 Django Todo App
+#  Django Todo App
 
 A simple Todo web application built using Django.
 Users can create, update, and delete tasks easily.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Add new tasks
 * Mark tasks as complete/incomplete
@@ -15,7 +15,7 @@ Users can create, update, and delete tasks easily.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Python
 * Django
@@ -23,7 +23,7 @@ Users can create, update, and delete tasks easily.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 todoproject/
@@ -36,9 +36,4 @@ todoproject/
 ---
 
 Deployed on PythonAnywhere:
-👉 https://rakesh111.pythonanywhere.com
-
-
-## 👨‍💻 Author
-
-Rakesh Yadav
+ https://rakesh111.pythonanywhere.com
